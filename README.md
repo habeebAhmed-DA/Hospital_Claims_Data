@@ -119,9 +119,34 @@ Final outcome of the claim (e.g., Paid, Denied, Partial).
 
 ## 📷 Dashboard Preview
 
+### 1️⃣ Medical Claims Overview
+![Medical Claims Overview](https://github.com/habeebAhmed-DA/Hospital_Claims_Data/blob/main/Claims/code_work_pngs/CL1.png)
+
+### 2️⃣ Payer & Provider Financial Performance
+![Payer & Provider Financial Performance](https://github.com/habeebAhmed-DA/Hospital_Claims_Data/blob/main/Claims/code_work_pngs/CL2.png)
+
+### 3️⃣ Claims & Revenue Risk Management
+![Claims & Revenue Risk Management](https://github.com/habeebAhmed-DA/Hospital_Claims_Data/blob/main/Claims/code_work_pngs/CL3.png)
+
+### 4️⃣ Clinical Line Service Performance
+![Clinical Line Service Performance](https://github.com/habeebAhmed-DA/Hospital_Claims_Data/blob/main/Claims/code_work_pngs/CL4.png)
+
+### 5️⃣ Payment Distribution of Allowed and Paid Amount
+![Payment Distribution Of Allowed and Paid Amount](https://github.com/habeebAhmed-DA/Hospital_Claims_Data/blob/main/Claims/code_work_pngs/CL5.png)
+
+### 6️⃣ Charge Amount Distribution By Insurance Type
+![Charge Amount Distribution By Insurance Type](https://github.com/habeebAhmed-DA/Hospital_Claims_Data/blob/main/Claims/code_work_pngs/CL6.png)
+
 
 
 
 ## 🧑🏻‍💻 Python Code
 
+### 1️⃣ Histogram of Charge (Allowed) Amount
+![Histogram of Charge (Allowed) Amount](https://github.com/habeebAhmed-DA/Hospital_Claims_Data/blob/main/Claims/code_work_pngs/histplot1.png)
 
+### 2️⃣ Histogram of Paid Amount
+![Histogram of Paid Amount](https://github.com/habeebAhmed-DA/Hospital_Claims_Data/blob/main/Claims/code_work_pngs/histplot2.png)
+
+### 3️⃣ Boxplot of Charge Amount Distribution By Insurance Type
+![Boxplot of Charge Amount Distribution By Insurance Type](https://github.com/habeebAhmed-DA/Hospital_Claims_Data/blob/main/Claims/code_work_pngs/hboxplot.png)
