@@ -1,0 +1,11 @@
+Procedure_Code,Description
+99213,Office or other outpatient visit - low medical decision making (or 20-29 minutes total time)
+99214,Office or other outpatient visit - moderate medical decision making (or 30-39 minutes total time)
+99215,Office or other outpatient visit - high medical decision making (or 40-54 minutes total time)
+99221,Initial hospital inpatient care - straightforward or low medical decision making (or 40-54 minutes)
+99222,Initial hospital inpatient care - moderate medical decision making (or 55-69 minutes)
+99223,Initial hospital inpatient care - high medical decision making (or 70-84 minutes)
+99231,Subsequent hospital inpatient care - straightforward or low medical decision making (or 25-34 minutes)
+99232,Subsequent hospital inpatient care - moderate medical decision making (or 35-44 minutes)
+99233,Subsequent hospital inpatient care - high medical decision making (or 45-59 minutes)
+99238,Hospital discharge day management - 30 minutes or less
