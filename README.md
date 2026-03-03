@@ -106,4 +106,22 @@ Final outcome of the claim (e.g., Paid, Denied, Partial).
 - KPI cards show a quick summary of key revenue cycle numbers.
 - Bar Donut and line charts compare provider and payer performance and show trends over time.
 
- 
+### 🗝️ Key Ensights
+
+- A small number of procedures bring in most of the revenue.
+- The diagnoses seen most often don’t always make the most money.
+- Payment collection stays steady across insurers, with about 90% of billed amounts being paid.
+- Some procedure codes earn more money per claim than others.
+- Unpaid balances point to areas where revenue is slipping through the cracks.
+- Payment amounts vary depending on the insurance type.
+<br>
+
+
+## 📷 Dashboard Preview
+
+
+
+
+## 🧑🏻‍💻 Python Code
+
+
